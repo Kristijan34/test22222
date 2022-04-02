@@ -1,5 +1,11 @@
 1. Bread x 5
 2. Milk x 11
 3. Eggs x 3
+<<<<<<< HEAD
 4. Sugar x 2 
 5. Flour x 10
+=======
+4. Water x 2 
+5. Flour x 1
+6. Beer x 18
+>>>>>>> branch2
