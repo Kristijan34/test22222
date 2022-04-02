@@ -1,5 +1,5 @@
-1. Bread 
-2. Milk
-3. Eggs 
-4. Sugar
-5. Flour
+1. Bread x 5
+2. Milk x 4
+3. Eggs x 3
+4. Sugar x 2 
+5. Flour x 1
