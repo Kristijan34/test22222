@@ -1,5 +1,6 @@
 1. Bread x 5
 2. Milk x 4
 3. Eggs x 3
-4. Sugar x 2 
+4. Water x 2 
 5. Flour x 1
+6. Beer x 18
